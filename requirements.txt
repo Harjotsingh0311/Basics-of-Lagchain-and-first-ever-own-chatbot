@@ -1,3 +1,6 @@
 langchain
 langgraph
-python.dotenv
+python-dotenv
+langchain-groq
+langchain-openai
+streamlit
