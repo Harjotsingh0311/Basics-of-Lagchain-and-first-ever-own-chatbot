@@ -406,33 +406,6 @@ After completing this project students understand:
 
 ---
 
-# 🚀 Next Projects
-
-After this project, students can build:
-
-### Intermediate
-
-- PDF Chatbot
-- Resume Analyzer
-- YouTube Q&A Bot
-- Research Assistant
-
-### Advanced
-
-- RAG Application
-- Multi-Agent Systems
-- AI Medical Assistant
-- AI Coding Assistant
-
-### Agentic AI
-
-- LangGraph Agents
-- Tool Calling
-- Autonomous Research Agents
-- Multi-Agent Workflows
-
----
-
 # 🏆 Author
 
 Harjot Singh
@@ -442,7 +415,3 @@ B.Tech AIML | Thapar University
 Learning Generative AI, Agentic AI, LangChain, LangGraph, Computer Vision, and AI Systems.
 
 ---
-
-# ⭐ If this project helped you
-
-Star the repository and share it with fellow students learning Generative AI.
